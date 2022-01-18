@@ -1,4 +1,4 @@
-# Clock-Widget
+# Clock-and-date-Widget
 simple 24hr python clock widget for windows 
 
 ## how to install
