@@ -1,4 +1,4 @@
-
+#Simple 24hr python desktop widget for windows created by CloudGlitch [ https://github.com/CloudGlitch ]
 from tkinter import *
 
 from time import strftime
