@@ -1,5 +1,5 @@
 # Clock-Widget
-simple classic python clock widget for windows 
+simple 24hr python clock widget for windows 
 
 ## how to
  step 1 : download the file
