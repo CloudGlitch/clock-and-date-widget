@@ -13,4 +13,12 @@ be sure to have <a href="https://python.org">python installed on your pc</a>
 ## Screenshots 
 ![image](https://user-images.githubusercontent.com/91538017/150080971-597d77fc-3857-4981-b230-7456c42c7d27.png)
 
+![image](https://user-images.githubusercontent.com/91538017/150081284-a8b839d7-098b-4bf7-a921-7ccf6224733e.png)
+
+## Controls
+ - drag to replace
+ - click on " [] " to see more options
+ - click on " - " to hide more options
+ - click on " Reset Position" to reset widget position on the screen
+
 
