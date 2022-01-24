@@ -29,11 +29,14 @@ main.geometry("+500+100")
 main.bind('<Button-1>', SaveLastClickPos)
 main.bind('<B1-Motion>', Dragging)
 main.config(bg = '#ffffff')
-main.wm_attributes('-transparentcolor','#ffffff')
+main.wm_attributes("-transparentcolor", "#fff")
 main.title('CloudGlitch Clock And Date Widget')
 
+
+ 
+
 def more() :
- main.geometry("350x270")
+ main.geometry("350x350")
 
 def less() :
  main.geometry("350x140")
@@ -41,28 +44,32 @@ def less() :
 def reset() :
  main.geometry("+500+100")
  main.geometry("350x140")
+ main.wm_attributes("-transparentcolor", "#fff")
 
 def about() :
  aboutWindow = Toplevel(main)
- 
  aboutWindow.title("Simple Clock and Date Widget")
- aboutWindow.geometry("+20+200")
- aboutWindow.geometry("500x50")
- 
- Label(aboutWindow,text ="Simple Clock and Date python desktop widget for windows created by CloudGlitch").pack()
+ aboutWindow.geometry("+180+500")
+ aboutWindow.geometry("1000x100")
+ Label(aboutWindow,text ="Simple Clock and Date desktop widget for windows created by CloudGlitch").pack()
+ Label(aboutWindow,text="For any help kindly visit this page -> https://github.com/CloudGlitch/clock-and-date-widget/issues").pack()
+ Label(aboutWindow,text="version : you are running the latest version 2.2").pack()
  Label(aboutWindow,text ="Github :- https://github.com/CloudGlitch").pack()
+
+def bg() :
+ main.wm_attributes("-transparentcolor", "#add123")
  
-btn = Button(main, text = '[]', width=2 ,bg="grey", bd=0 ,height=1 ,command = more)
-btn1 = Button(main, text = '-', width=2 ,bg="grey",  bd=0 ,height=1, command =  less)
+more = Button(main, text = '▼',command = more,bd=0,bg="#fff").place(x=0,y=0)
 close = Button(main, text = 'Close Widget' ,bg="grey",  bd=0,height=3 ,width=20,command = main.destroy)
 about = Button(main, text = 'About' ,bg="grey",  bd=0,height=3 ,width=20,command = about)
-reset = Button(main, text = 'Reset Position' ,bg="grey",  bd=0,height=2 ,width=43,command = reset)
+reset = Button(main, text = 'Reset Widget' ,bg="grey",  bd=0,height=3 ,width=20,command = reset)
+bg = Button(main, text = 'Show Background' ,bg="grey",  bd=0,height=3 ,width=20,command = bg)
+less = Button(main, text = 'hide more menu',command = less,bd=0,bg="grey",width=43,height=2).place(x=20,y=290)
 
-btn.place( x=0 , y=0)   
-btn1.place( x=20 , y=0)
 close.place( x = 20 , y = 150)
 about.place( x=180,y=150)
 reset.place(x=20,y=220)
+bg.place(x=180,y=220)
 
 def clock():
 	tick = strftime(' %H:%M:%S %p')
