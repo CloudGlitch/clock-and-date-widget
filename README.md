@@ -20,7 +20,7 @@ be sure to have <a href="https://python.org">python installed on your pc</a>
 ## Details
  - 24hr clock
  - clock format `hour : minute : second am/pm`
- - date format `Sun , Jan 01 , 2022`
+ - date example `Sun , Jan 01 , 2022`
 
 ## Controls
  - drag to replace
