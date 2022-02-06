@@ -17,6 +17,11 @@ be sure to have <a href="https://python.org">python installed on your pc</a>
 ## Screenshots 
 ![image](https://user-images.githubusercontent.com/91538017/152691304-fcfb3d7b-9211-47de-b0a9-7b24b019ae9e.png)
 
+## Details
+ - 24hr clock
+ - clock format `hour : minute : second am/pm`
+ - date format `Sun , Jan 01 , 2022`
+
 ## Controls
  - drag to replace
  - click on date to reset
