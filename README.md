@@ -16,7 +16,7 @@ be sure to have <a href="https://python.org">python installed on your pc</a>
  
 ## Screenshots 
 ![image](https://user-images.githubusercontent.com/91538017/152691304-fcfb3d7b-9211-47de-b0a9-7b24b019ae9e.png)
-This Image is not allowed to reproduce or republish. This image belongs to <a href="https://cloudglitch.github.io/CLoudGlitch">CloudGlitch</a>
+This Image is not allowed to reproduce or republish. This image belongs to <a href="https://cloudglitch.github.io/CloudGlitch">CloudGlitch</a>
 
 ## Details
  - 24hr clock
