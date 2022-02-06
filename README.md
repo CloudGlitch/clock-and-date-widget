@@ -12,6 +12,8 @@ be sure to have <a href="https://python.org">python installed on your pc</a>
  
  step 4 : move the downloaded file to the startup folder
  
+ step 5 : restart your computer 
+ 
 ## Screenshots 
 ![image](https://user-images.githubusercontent.com/91538017/152690601-cab20871-8ece-449d-8cef-202e32bf32d3.png)
 
