@@ -6,7 +6,7 @@ be sure to have <a href="https://python.org">python installed on your pc</a>
 
  step 1 : press `windows key + r`, type in ` cmd ` and then click ok , after the command prompt window is opened type in ` pip install datetime ` then click enter after the         installation is complete close command prompt.
  
- step 2 : download the <a href="https://github.com/CloudGlitch/clock-and-date-widget/releases/download/v2.3/widget.pyw">file</a>
+ step 2 : download the <a href="https://github.com/CloudGlitch/clock-and-date-widget/releases/download/v2.3/widget.pyw">file</a> [ the borwser may say that the file can harm your pc . but the file will not harm your pc . if you are not able to download from here goto releases and click on `widget.pyw` in the latest release ]
  
  step 3 : press windows key + r and type in "shell:startup" click ok
  
