@@ -2,7 +2,7 @@
 simple 24hr clock and date widget for windows 
 
 ## how to install
-be sure to have <a href="https://python.org">python installed on your pc</a>
+be sure to have <a href="https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe">python installed on your pc</a>
 
 This Widget Works only for operating systems running windows 11 or windows 10
 
