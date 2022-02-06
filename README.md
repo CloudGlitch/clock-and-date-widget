@@ -15,9 +15,7 @@ be sure to have <a href="https://python.org">python installed on your pc</a>
  step 5 : restart your computer 
  
 ## Screenshots 
-![image](https://user-images.githubusercontent.com/91538017/152690601-cab20871-8ece-449d-8cef-202e32bf32d3.png)
-
-
+![image](https://user-images.githubusercontent.com/91538017/152691304-fcfb3d7b-9211-47de-b0a9-7b24b019ae9e.png)
 
 ## Controls
  - drag to replace
