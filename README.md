@@ -1,7 +1,7 @@
 # Clock-and-date-Widget
 simple 24hr clock and date widget for windows 
 
-  - step 1 : download the <a href="https://github.com/CloudGlitch/clock-and-date-widget/releases/download/v3/widget.exe">file</a> [ the browser may say that the file can harm your pc . but the file will not harm your pc . if you are not able to download from here goto releases and click on `widget.` in the latest release ]
+  - step 1 : download the <a href="https://github.com/CloudGlitch/clock-and-date-widget/releases/download/v3/widget.exe">file</a> [ the browser may say that the file can harm your pc . but the file will not harm your pc . if you are not able to download from here goto releases and click on `widget.exe` in the latest release ]
  
   - step 2 : press windows key + r and type in "shell:startup" click ok
  
